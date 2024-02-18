@@ -3,7 +3,8 @@ class Solution:
         res=0
         k=x
         
-        if k<0: k=abs(k)
+        if k<0: 
+            k=abs(k)
         while k!=0:
             y=k%10
             res=res*10+y
