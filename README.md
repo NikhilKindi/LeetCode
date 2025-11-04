@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/NikhilKindi/LeetCode/tree/master/0191-number-of-1-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NikhilKindi/LeetCode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NikhilKindi/LeetCode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NikhilKindi/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NikhilKindi/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
