@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0485-max-consecutive-ones](https://github.com/NikhilKindi/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
