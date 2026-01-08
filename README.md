@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NikhilKindi/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -19,11 +20,13 @@
 | [0007-reverse-integer](https://github.com/NikhilKindi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NikhilKindi/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NikhilKindi/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
