@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NikhilKindi/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -50,6 +52,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/NikhilKindi/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Depth-First Search
 |  |
@@ -75,5 +78,10 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
