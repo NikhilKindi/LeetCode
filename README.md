@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NikhilKindi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NikhilKindi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
