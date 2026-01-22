@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/NikhilKindi/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NikhilKindi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKindi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NikhilKindi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/NikhilKindi/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
