@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/NikhilKindi/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NikhilKindi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKindi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilKindi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NikhilKindi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NikhilKindi/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilKindi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NikhilKindi/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NikhilKindi/LeetCode/tree/master/0268-missing-number) |
 ## Math
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKindi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilKindi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
